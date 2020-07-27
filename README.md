@@ -4,7 +4,7 @@ Docker:
 Intruções para subir a aplicação.
 
 Primeiro subir o backend:
-  https://github.com/knechtel/deliverIt-backend(Passo a passo no README.md)
+  https://github.com/knechtel/deliverIt-backend (Passo a passo no README.md)
 
 Clonar o repositório
 git clone https://github.com/knechtel/deliverIt-frontend.git
